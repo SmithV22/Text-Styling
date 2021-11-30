@@ -1,0 +1,33 @@
+
+* {
+    margin: 5px;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    padding: 5px 15px;
+    
+} 
+
+span {
+    color: turquoise;
+}
+
+h2 {
+    color: white;
+    background-color: purple;
+    font-style: italic;
+    text-align: center;
+    padding: 5px;
+}
+
+h3 {
+    background-color: skyblue;
+    color: rgb(44, 35, 105);
+    text-align: right;
+    text-decoration: underline;
+    padding: 5px 15px;
+}
+
